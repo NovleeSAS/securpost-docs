@@ -1,18 +1,7 @@
-site_name: FOLLOW Docs
+site_name: Securpost Docs
 
 theme:
   name: material
-  language: fr
 
 plugins:
   - search
-  - i18n:
-      docs_structure: folder
-      languages:
-        - locale: fr
-          name: Français
-          default: true
-        - locale: en
-          name: English
-        - locale: es
-          name: Español
